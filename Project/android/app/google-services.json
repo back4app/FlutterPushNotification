@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "77192768317",
+    "project_id": "flutter-parse-notification",
+    "storage_bucket": "flutter-parse-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77192768317:android:b023f6e3600f0a7f0cb354",
+        "android_client_info": {
+          "package_name": "com.back4app.flutter_parse_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77192768317-hvpu184j9udn3pucn0923kvp55vhfbem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaXK1Co5w54AO4wuHZ7VwOq2-R_bG_HqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77192768317-hvpu184j9udn3pucn0923kvp55vhfbem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77192768317-9kaldrlmdlgk2ajbqc3mgtkllnpbttqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rodrigosmarques.flutter-parse-notification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
