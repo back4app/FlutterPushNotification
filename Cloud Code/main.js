@@ -26,10 +26,6 @@ async function sendNotification() {
   var today = new Date();
 
   var jsonMessage = {
-    'notification': {
-      'title': 'Back4App Guide Notification',
-      'body': 'Test Message on Flutter'
-    },
     'data': { 'key1': 'value1', 'sendDate': today.toISOString(),
     'notification': {
       'title': 'Back4App Guide Notification',
